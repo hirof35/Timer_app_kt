@@ -1,3 +1,4 @@
+
 Multi-Clock App (Kotlin/Swing)
 KotlinとJava Swingを利用した、タブ切り替え式のデスクトップ時計ツールです。
 1つのウィンドウで、現在時刻の確認、経過時間の計測、カウントダウンタイマーの3つの機能を利用できます。
@@ -42,3 +43,4 @@ Update Engine: javax.swing.Timer
 
 📝 ライセンス
 このプロジェクトは MITライセンス の下で公開されています。
+<img width="799" height="639" alt="スクリーンショット 2026-04-30 184819" src="https://github.com/user-attachments/assets/2ea7c312-5d8c-459a-9732-930c6cffc6a4" />
