@@ -43,4 +43,5 @@ Update Engine: javax.swing.Timer
 
 📝 ライセンス
 このプロジェクトは MITライセンス の下で公開されています。
-<img width="799" height="639" alt="スクリーンショット 2026-04-30 184819" src="https://github.com/user-attachments/assets/2ea7c312-5d8c-459a-9732-930c6cffc6a4" />
+<img width="476" height="358" alt="スクリーンショット 2026-04-30 185120" src="https://github.com/user-attachments/assets/f5d3267b-a09c-4b95-86b6-324f765dbf54" />
+
